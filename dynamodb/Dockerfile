@@ -1,3 +1,3 @@
 FROM amazon/dynamodb-local
 
-EXPOSE 8080
+EXPOSE 8080 8081
